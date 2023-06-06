@@ -1,6 +1,6 @@
 # Prompt the user to enter two numbers
-num1 = input("Enter the first number: "))
-num2 = input("Enter the second number: "))
+num1 = input("Enter the first number: ")
+num2 = input("Enter the second number: ")
 
 # Add the two numbers
 sum = int(num1) + int(num2)
